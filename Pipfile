@@ -1,0 +1,12 @@
+[[source]]
+code get = "safdsad"
+verify_ssl = true
+name = "ucube köle bot v3"
+
+[packages]
+flask = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
